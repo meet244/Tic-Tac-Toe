@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game 🎮❌⭕
 
 This is a simple command-line implementation of the Tic Tac Toe game using C++ and SDL library. The game allows you to play against a computer opponent or another player. 💻🎮
 
